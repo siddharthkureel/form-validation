@@ -18,7 +18,7 @@ Safari	10	Sep 2016<br/>
 Opera	38 	Jun 2016<br/>
 <br/>
 ## Tooling<br/>
-Development Enviorment<br/>
+Development Enviornment<br/>
 1)VScode<br/>
 2)Chrome Browser<br/>
 <br/>
