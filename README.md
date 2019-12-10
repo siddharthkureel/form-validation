@@ -4,7 +4,7 @@
 3) Fill the Form and check the validation<br/>
 4) Upon successful no error in fields, enter the submit form and check values in JSON format in alert box<br/>
 <br/>
-## Accessibility<br/>
+### Accessibility<br/>
 It accessible in all modern in browser on client side, no library, framework or any dependency is required.<br/>
 <br/>
 ## Browser support<br/>
