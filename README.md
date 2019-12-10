@@ -22,8 +22,7 @@ Development Enviorment<br/>
 1)VScode<br/>
 2)Chrome Browser<br/>
 <br/>
-Dependencies 
-None<br/>
+Dependencies:None<br/>
 
 
 
